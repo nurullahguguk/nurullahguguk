@@ -11,12 +11,6 @@
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurullahguguk&show_icons=true&locale=en&layout=compact" alt="nurullahguguk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullahguguk&show_icons=true&locale=en" alt="nurullahguguk" /></p>
-
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurullahguguk&count_private=true&langs_count=true&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurullahguguk) |
 |---|---|
 
